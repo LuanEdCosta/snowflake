@@ -26,7 +26,7 @@ This is an API that create an analysis of the Ibovespa stocks. The inspiration w
 
 ## :man: Author
 
-[Luan Eduardo da Costa](https://github.com/LuanEdCosta)
+Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
 
 ## :page_facing_up: License
 
